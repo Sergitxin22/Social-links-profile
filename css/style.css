@@ -57,14 +57,17 @@ section.social {
     margin-bottom: 34.5px;
 }
 
-article {
-    font-size: 12px;
-    font-weight: 700;
+article {    
     background-color: var(--grey);
     border-radius: 7px;
     margin-top: 13px;
     width: 100%;
     padding-block: 12px;
+}
+
+article h3 {
+    font-size: 12px;
+    font-weight: 700;
 }
 
 article:hover {
